@@ -1,13 +1,1 @@
-contador ← 1
-soma ← 0
 
-enquanto contador ≤ 5 faça
-    escreva("Digite o salário do funcionário ", contador, ": ")
-    leia(salario)
-    soma ← soma + salario
-    contador ← contador + 1
-fim_enquanto
-
-media ← soma / 5
-
-escreva("A média dos salários é: ", media)
