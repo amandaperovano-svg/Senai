@@ -1,0 +1,1 @@
+horas_normais = float(input("Digite a quantidade de "))
